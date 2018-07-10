@@ -73,3 +73,7 @@ A new state, `"collect_rock"` has been introduced, which the Rover enters whenev
 #### 3. Added new variables to the `RoverState` class
 
 #### 4. Driving the Rover autonomously in the simulator.
+
+---
+
+For me, the most challenging parts have been represented firstly by obtaining a constant good accuracy (over 65-70%), as well as making the Rover go towards the rock samples and picking them up afterwards.
